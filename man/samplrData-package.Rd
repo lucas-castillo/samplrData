@@ -4,9 +4,9 @@
 \name{samplrData-package}
 \alias{samplrData}
 \alias{samplrData-package}
-\title{samplrData: What the Package Does (One Line, Title Case)}
+\title{samplrData: Provides Data from SAMPLING Project}
 \description{
-What the package does (one paragraph).
+Provides datasets collected by the SAMPLING project (https://sampling.warwick.ac.uk)
 }
 \seealso{
 Useful links:
@@ -18,7 +18,18 @@ Useful links:
 
 }
 \author{
-\strong{Maintainer}: First Last \email{first.last@example.com} (\href{https://orcid.org/YOUR-ORCID-ID}{ORCID})
+\strong{Maintainer}: Lucas Castillo \email{lucas.castillo-marti@warwick.ac.uk} (\href{https://orcid.org/0000-0003-0274-0777}{ORCID}) [copyright holder]
+
+Authors:
+\itemize{
+  \item Yun-Xiao Li \email{yunxiao.li@warwick.ac.uk} (\href{https://orcid.org/0000-0002-3509-6618}{ORCID}) [copyright holder]
+  \item Adam N Sanborn \email{a.n.sanborn@warwick.ac.uk} (\href{https://orcid.org/0000-0003-0442-4372}{ORCID}) [copyright holder]
+}
+
+Other contributors:
+\itemize{
+  \item European Research Council (ERC) [funder]
+}
 
 }
 \keyword{internal}
