@@ -15,3 +15,6 @@ BugReports: https://github.com/lucas-castillo/samplrData/issues
 Depends: 
     R (>= 2.10)
 LazyData: true
+Imports: 
+    Rdpack
+RdMacros: Rdpack
