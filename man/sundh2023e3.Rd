@@ -3,7 +3,7 @@
 \docType{data}
 \name{sundh2023e3}
 \alias{sundh2023e3}
-\title{Data from Experiment 3 in \insertCite{sundh2023UnifiedExplanationVariability;textual}{samplr}}
+\title{Data from Experiment 3 in \insertCite{sundh2023UnifiedExplanationVariability;textual}{samplrData}}
 \format{
 An object of class \code{data.frame} with 12420 rows and 10 columns.
 }
@@ -27,6 +27,6 @@ This data are licensed under \href{https://creativecommons.org/licenses/by/4.0/}
 }
 }
 \references{
-\insertRef{sundh2023UnifiedExplanationVariability}{samplr}
+\insertRef{sundh2023UnifiedExplanationVariability}{samplrData}
 }
 \keyword{datasets}
