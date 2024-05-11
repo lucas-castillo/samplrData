@@ -8,7 +8,8 @@
 [![R-CMD-check](https://github.com/lucas-castillo/samplrData/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/lucas-castillo/samplrData/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
-The goal of samplrData is to …
+The goal of samplrData is to provide datasets collected by the [SAMPLING
+project](https://sampling.warwick.ac.uk/).
 
 ## Installation
 
@@ -22,33 +23,32 @@ devtools::install_github("lucas-castillo/samplrData")
 
 ## Example
 
-This is a basic example which shows you how to solve a common problem:
+Loading the package allows you to import the datasets:
 
 ``` r
 library(samplrData)
-## basic example code
+head(sundh2023e3)
+#>    ID block trial
+#> 1 101     1     1
+#> 2 101     1     2
+#> 3 101     1     3
+#> 4 101     1     4
+#> 5 101     1     5
+#> 6 101     1     6
+#>                                                                                                                                   query
+#> 1     If the weather in England is mild on a random daywhat is the probability that the weather will also be not foggy on the same day?
+#> 2 If the weather in England is not thundery on a random daywhat is the probability that the weather will also be humid on the same day?
+#> 3                                     What is the probability that the weather will be  snowy or not stormy on a random day in England?
+#> 4 If the weather in England is not humid on a random daywhat is the probability that the weather will also be thundery on the same day?
+#> 5                                               What is the probability that the weather will be  not humid on a random day in England?
+#> 6                                                  What is the probability that the weather will be  stormy on a random day in England?
+#>                querydetail querytype estimate starttime endtime        RT
+#> 1     not foggy given mild    notAgB       90   1188820 1188860 39.329710
+#> 2 humid given not thundery    BgnotA       50   1188860 1188878 18.635095
+#> 3      snowy or not stormy   AornotB       90   1188879 1188925 46.462790
+#> 4 thundery given not humid    AgnotB        5   1188925 1188956 30.659539
+#> 5                not humid      notB       80   1188956 1188963  6.641129
+#> 6                   stormy         B       20   1188963 1188971  8.111630
 ```
 
-What is special about using `README.Rmd` instead of just `README.md`?
-You can include R chunks like so:
-
-``` r
-summary(cars)
-#>      speed           dist       
-#>  Min.   : 4.0   Min.   :  2.00  
-#>  1st Qu.:12.0   1st Qu.: 26.00  
-#>  Median :15.0   Median : 36.00  
-#>  Mean   :15.4   Mean   : 42.98  
-#>  3rd Qu.:19.0   3rd Qu.: 56.00  
-#>  Max.   :25.0   Max.   :120.00
-```
-
-You’ll still need to render `README.Rmd` regularly, to keep `README.md`
-up-to-date. `devtools::build_readme()` is handy for this.
-
-You can also embed plots, for example:
-
-<img src="man/figures/README-pressure-1.png" width="100%" />
-
-In that case, don’t forget to commit and push the resulting figure
-files, so they display on GitHub and CRAN.
+Please read descriptions of the datasets in the reference section.
