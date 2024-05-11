@@ -6,7 +6,7 @@
 \alias{samplrData-package}
 \title{samplrData: Provides Data from SAMPLING Project}
 \description{
-Provides datasets collected by the SAMPLING project (https://sampling.warwick.ac.uk)
+This package provides datasets collected by the SAMPLING project (https://sampling.warwick.ac.uk).
 }
 \seealso{
 Useful links:

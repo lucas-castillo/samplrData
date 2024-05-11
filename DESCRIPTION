@@ -21,7 +21,7 @@ Authors@R: c(
            role = c("fnd"))
    )
 Maintainer: Lucas Castillo <lucas.castillo-marti@warwick.ac.uk>
-Description: Provides datasets collected by the SAMPLING project (https://sampling.warwick.ac.uk)
+Description: This package provides datasets collected by the SAMPLING project (https://sampling.warwick.ac.uk).
 License: CC BY 4.0
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
