@@ -34,7 +34,7 @@ Loading the package allows you to import the datasets:
 
 ```{r example}
 library(samplrData)
-head(sundh2023e3)
+knitr::kable(head(sundh2023e3))
 ```
 
 Please read descriptions of the datasets in the reference section. 

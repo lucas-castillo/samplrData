@@ -27,28 +27,16 @@ Loading the package allows you to import the datasets:
 
 ``` r
 library(samplrData)
-head(sundh2023e3)
-#>    ID block trial
-#> 1 101     1     1
-#> 2 101     1     2
-#> 3 101     1     3
-#> 4 101     1     4
-#> 5 101     1     5
-#> 6 101     1     6
-#>                                                                                                                                   query
-#> 1     If the weather in England is mild on a random daywhat is the probability that the weather will also be not foggy on the same day?
-#> 2 If the weather in England is not thundery on a random daywhat is the probability that the weather will also be humid on the same day?
-#> 3                                     What is the probability that the weather will be  snowy or not stormy on a random day in England?
-#> 4 If the weather in England is not humid on a random daywhat is the probability that the weather will also be thundery on the same day?
-#> 5                                               What is the probability that the weather will be  not humid on a random day in England?
-#> 6                                                  What is the probability that the weather will be  stormy on a random day in England?
-#>                querydetail querytype estimate starttime endtime        RT
-#> 1     not foggy given mild    notAgB       90   1188820 1188860 39.329710
-#> 2 humid given not thundery    BgnotA       50   1188860 1188878 18.635095
-#> 3      snowy or not stormy   AornotB       90   1188879 1188925 46.462790
-#> 4 thundery given not humid    AgnotB        5   1188925 1188956 30.659539
-#> 5                not humid      notB       80   1188956 1188963  6.641129
-#> 6                   stormy         B       20   1188963 1188971  8.111630
+knitr::kable(head(sundh2023e3))
 ```
+
+|  ID | block | trial | query                                                                                                                                 | querydetail              | querytype | estimate | starttime | endtime |        RT |
+|----:|------:|------:|:--------------------------------------------------------------------------------------------------------------------------------------|:-------------------------|:----------|---------:|----------:|--------:|----------:|
+| 101 |     1 |     1 | If the weather in England is mild on a random daywhat is the probability that the weather will also be not foggy on the same day?     | not foggy given mild     | notAgB    |       90 |   1188820 | 1188860 | 39.329710 |
+| 101 |     1 |     2 | If the weather in England is not thundery on a random daywhat is the probability that the weather will also be humid on the same day? | humid given not thundery | BgnotA    |       50 |   1188860 | 1188878 | 18.635095 |
+| 101 |     1 |     3 | What is the probability that the weather will be snowy or not stormy on a random day in England?                                      | snowy or not stormy      | AornotB   |       90 |   1188879 | 1188925 | 46.462790 |
+| 101 |     1 |     4 | If the weather in England is not humid on a random daywhat is the probability that the weather will also be thundery on the same day? | thundery given not humid | AgnotB    |        5 |   1188925 | 1188956 | 30.659539 |
+| 101 |     1 |     5 | What is the probability that the weather will be not humid on a random day in England?                                                | not humid                | notB      |       80 |   1188956 | 1188963 |  6.641129 |
+| 101 |     1 |     6 | What is the probability that the weather will be stormy on a random day in England?                                                   | stormy                   | B         |       20 |   1188963 | 1188971 |  8.111630 |
 
 Please read descriptions of the datasets in the reference section.
