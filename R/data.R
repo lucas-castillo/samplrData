@@ -26,7 +26,6 @@
 #' \describe{
 #'   \item{ID}{}
 #'   \item{block}{3 blocks in total}
-#'   \item{trial}{Trial Number within a block}
 #'   \item{query, querydetail}{Verbal descriptions of the query}
 #'   \item{querytype}{Type of query: e.g. not B given A = p(¬B|A)}
 #'   \item{queryset}{Whether the query is about biden and 2050 climate goals or UK election and economic recovery}

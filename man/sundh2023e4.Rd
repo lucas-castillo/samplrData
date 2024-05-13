@@ -5,7 +5,7 @@
 \alias{sundh2023e4}
 \title{Data from Experiment 4 in \insertCite{sundh2023UnifiedExplanationVariability;textual}{samplrData}}
 \format{
-An object of class \code{data.frame} with 13320 rows and 8 columns.
+An object of class \code{data.frame} with 13320 rows and 7 columns.
 }
 \usage{
 sundh2023e4
@@ -18,7 +18,6 @@ This data are licensed under \href{https://creativecommons.org/licenses/by/4.0/}
 \describe{
 \item{ID}{}
 \item{block}{3 blocks in total}
-\item{trial}{Trial Number within a block}
 \item{query, querydetail}{Verbal descriptions of the query}
 \item{querytype}{Type of query: e.g. not B given A = p(¬B|A)}
 \item{queryset}{Whether the query is about biden and 2050 climate goals or UK election and economic recovery}
