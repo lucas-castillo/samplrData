@@ -13,6 +13,7 @@
 #'   \item{starttime, endtime}{}
 #'   \item{RT}{}
 #' }
+#' @source <https://osf.io/mgcxj/>
 #' @references
 #' \insertRef{zhu2020BayesianSamplerGeneric}{samplrData}
 "zhu2020e1"
@@ -32,6 +33,7 @@
 #'   \item{starttime, endtime}{}
 #'   \item{RT}{}
 #' }
+#' @source <https://osf.io/mgcxj/>
 #' @references
 #' \insertRef{zhu2020BayesianSamplerGeneric}{samplrData}
 "zhu2020e2"
@@ -53,6 +55,7 @@
 #'   \item{starttime, endtime}{}
 #'   \item{RT}{}
 #' }
+#' @source <https://osf.io/9kea6/>
 #' @references
 #' \insertRef{sundh2023UnifiedExplanationVariability}{samplrData}
 #'
@@ -71,6 +74,7 @@
 #'   \item{queryset}{Whether the query is about biden and 2050 climate goals or UK election and economic recovery}
 #'   \item{Estimate}{Estimated probability, in percentages}
 #' }
+#' @source <https://osf.io/9kea6/>
 #' @references
 #' \insertRef{sundh2023UnifiedExplanationVariability}{samplrData}
 #'
