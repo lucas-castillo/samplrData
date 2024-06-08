@@ -79,3 +79,43 @@
 #' \insertRef{sundh2023UnifiedExplanationVariability}{samplrData}
 #'
 "sundh2023e4"
+
+#' Data from Experiment 1 in \insertCite{zhu2022ClarifyingRelationshipCoherence;textual}{samplrData}
+#'
+#' Participants (from Prolific) estimated the frequencies of different 3-card combinations in a 52 card deck and 3-ball combinations in a 52 ball urn (mathematically identical questions). They also answered surveys on poker playing habits and gamblers fallacy questionnaire.
+#'
+#' See exact questions in original paper's supplementary materials ([Appendix B](https://ars.els-cdn.com/content/image/1-s2.0-S0010027722000105-mmc1.docx)). This data are not licensed and so permission is required from authors before its use. Reproduced from materials in [OSF](https://osf.io/cdvkn/).
+#' \describe{
+#'   \item{group}{Self-reported response on whether they have played poker before}
+#'   \item{q1-q9}{Answers to the poker questions}
+#'   \item{mq1-mq9}{Answers to the ball questions}
+#'   \item{gfs}{number of correct answers in gambler's fallacy questionnaire}
+#'   \item{cs}{Inferred poker playing time in the last 12 months}
+#'   \item{RT}{}
+#'   \item{taskEqual}{judged similarity between the Card and Ball task (0=all equal, 1=all differ, 0.5=answers differ but urn and deck were equal)}
+#' }
+#' @source <https://osf.io/cdvkn/>
+#' @references
+#' \insertRef{zhu2022ClarifyingRelationshipCoherence}{samplrData}
+#'
+"zhu2022e1"
+
+#' Data from Experiment 2 in \insertCite{zhu2022ClarifyingRelationshipCoherence;textual}{samplrData}
+#'
+#' Participants (professional players recruited from twoplustwo.com) estimated the frequencies of different 3-card combinations in a 52 card deck and 3-ball combinations in a 52 ball urn (mathematically identical questions). They also answered surveys on poker playing habits and gamblers fallacy questionnaire.
+#'
+#' See exact questions in original paper's supplementary materials ([Appendix B](https://ars.els-cdn.com/content/image/1-s2.0-S0010027722000105-mmc1.docx)). This data are not licensed and so permission is required from authors before its use. Reproduced from materials in [OSF](https://osf.io/cdvkn/).
+#' \describe{
+#'   \item{group}{value here is always professional (in contrast to Experiment 1)}
+#'   \item{q1-q9}{Answers to the poker questions}
+#'   \item{mq1-mq9}{Answers to the ball questions}
+#'   \item{gfs}{number of correct answers in gambler's fallacy questionnaire}
+#'   \item{cs}{Inferred poker playing time in the last 12 months}
+#'   \item{RT}{}
+#'   \item{taskEqual}{judged similarity between the Card and Ball task (0=all equal, 1=all differ, 0.5=answers differ but urn and deck were equal)}
+#' }
+#' @source <https://osf.io/cdvkn/>
+#' @references
+#' \insertRef{zhu2022ClarifyingRelationshipCoherence}{samplrData}
+#'
+"zhu2022e2"
