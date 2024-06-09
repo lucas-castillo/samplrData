@@ -196,3 +196,40 @@
 #' \insertRef{spicer2022PerceptualCognitiveJudgments}{samplrData}
 #'
 "spicer2022.anchoringrepulsion.e2a"
+
+#' Data from Animal Experiment in \insertCite{zhu2022UnderstandingStructureCognitive;textual}{samplrData}
+#'
+#' Participants were asked to type animal names as they came to mind and were explicitly instructed that they could resubmit previous animals, though not consecutively.
+#'
+#' This data are not licensed and so permission is required from authors before its use. Reproduced from materials in [OSF](https://osf.io/kcfgp/).
+#' \describe{
+#'   \item{ID}{Participant ID}
+#'   \item{Order}{Index of the response}
+#'   \item{Responses}{Transcribed response}
+#'   \item{Animal}{Category the response was allocated to}
+#'   \item{StartType,EndType}{Absolute time of starting and ending to type the response}
+#'   \item{IRI}{Time between last response's EndType and this response's StartType}
+#' }
+#' @source <https://osf.io/kcfgp/>
+#' @references
+#' \insertRef{zhu2022UnderstandingStructureCognitive}{samplrData}
+#'
+"zhu2022.structurenoise.animals"
+
+#' Data from Time Experiment in \insertCite{zhu2022UnderstandingStructureCognitive;textual}{samplrData}
+#'
+#' Participants first listened to a sample of the target temporal interval for 60 seconds. Participants were instructed to reproduce the target by pressing the spacebar when they believed the target interval had elapsed (i.e. perfect performance in the task would mean `IRI == Target`).
+#'
+#' This data are not licensed and so permission is required from authors before its use. Reproduced from materials in [OSF](https://osf.io/kcfgp/).
+#' \describe{
+#'   \item{ID}{Participant ID}
+#'   \item{Order}{Index of the response}
+#'   \item{StartType,EndType}{Absolute time of starting and ending to type the response}
+#'   \item{IRI}{Time between last response's EndType and this response's StartType}
+#'   \item{Target}{Whether the participant had to reproduce a 1/3s, 1s or 3s interval}
+#' }
+#' @source <https://osf.io/kcfgp/>
+#' @references
+#' \insertRef{zhu2022UnderstandingStructureCognitive}{samplrData}
+#'
+"zhu2022.structurenoise.time"
