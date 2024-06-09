@@ -16,7 +16,7 @@
 #' @source <https://osf.io/mgcxj/>
 #' @references
 #' \insertRef{zhu2020BayesianSamplerGeneric}{samplrData}
-"zhu2020e1"
+"zhu2020.bayesiansampler.e1"
 
 #' Data from Experiment 2 in \insertCite{zhu2020BayesianSamplerGeneric;textual}{samplrData}
 #'
@@ -36,7 +36,7 @@
 #' @source <https://osf.io/mgcxj/>
 #' @references
 #' \insertRef{zhu2020BayesianSamplerGeneric}{samplrData}
-"zhu2020e2"
+"zhu2020.bayesiansampler.e2"
 
 
 
@@ -59,7 +59,7 @@
 #' @references
 #' \insertRef{sundh2023UnifiedExplanationVariability}{samplrData}
 #'
-"sundh2023e3"
+"sundh2023.meanvariance.e3"
 
 #' Data from Experiment 4 in \insertCite{sundh2023UnifiedExplanationVariability;textual}{samplrData}
 #'
@@ -78,7 +78,7 @@
 #' @references
 #' \insertRef{sundh2023UnifiedExplanationVariability}{samplrData}
 #'
-"sundh2023e4"
+"sundh2023.meanvariance.e4"
 
 #' Data from Experiment 1 in \insertCite{zhu2022ClarifyingRelationshipCoherence;textual}{samplrData}
 #'
@@ -98,7 +98,7 @@
 #' @references
 #' \insertRef{zhu2022ClarifyingRelationshipCoherence}{samplrData}
 #'
-"zhu2022e1"
+"zhu2022.coherenceaccuracy.e1"
 
 #' Data from Experiment 2 in \insertCite{zhu2022ClarifyingRelationshipCoherence;textual}{samplrData}
 #'
@@ -118,7 +118,7 @@
 #' @references
 #' \insertRef{zhu2022ClarifyingRelationshipCoherence}{samplrData}
 #'
-"zhu2022e2"
+"zhu2022.coherenceaccuracy.e2"
 
 #' Data from Experiment 1 in \insertCite{spicer2022PerceptualCognitiveJudgments;textual}{samplrData}
 #'
@@ -142,7 +142,7 @@
 #' @references
 #' \insertRef{spicer2022PerceptualCognitiveJudgments}{samplrData}
 #'
-"spicer2022e1"
+"spicer2022.anchoringrepulsion.e1"
 
 #' Data from Experiment 2 in \insertCite{spicer2022PerceptualCognitiveJudgments;textual}{samplrData}
 #'
@@ -168,7 +168,7 @@
 #' @references
 #' \insertRef{spicer2022PerceptualCognitiveJudgments}{samplrData}
 #'
-"spicer2022e2"
+"spicer2022.anchoringrepulsion.e2"
 
 #' Data from Experiment 2a in \insertCite{spicer2022PerceptualCognitiveJudgments;textual}{samplrData}
 #'
@@ -195,4 +195,4 @@
 #' @references
 #' \insertRef{spicer2022PerceptualCognitiveJudgments}{samplrData}
 #'
-"spicer2022e2a"
+"spicer2022.anchoringrepulsion.e2a"
