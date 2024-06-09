@@ -119,3 +119,80 @@
 #' \insertRef{zhu2022ClarifyingRelationshipCoherence}{samplrData}
 #'
 "zhu2022e2"
+
+#' Data from Experiment 1 in \insertCite{spicer2022PerceptualCognitiveJudgments;textual}{samplrData}
+#'
+#' Perceptual judgments. Participants made judgments of numerosity against comparison values or absolute estimates. Comparison values (boundaries) were either similar or dissimilar to the true answer.
+#'
+#' This data are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), reproduced from materials in [OSF](https://osf.io/95ruy/).
+#' \describe{
+#'   \item{Timestamp}{Date and time of the experimental session}
+#'   \item{Pt}{Participant ID}
+#'   \item{Trial}{Trial ID based on order of presentation}
+#'   \item{Boundary}{Comparison value for that trial}
+#'   \item{DotCount}{Number of dots shown on that trial}
+#'   \item{Region}{Region for that dot count, being either high or low}
+#'   \item{Decision}{Decision made by the participant on whether dot count was higher or lower than the boundary for that trial}
+#'   \item{Dec_RT}{Response time for the decision}
+#'   \item{Accuracy}{Accuracy of the selected decision}
+#'   \item{Estimate}{Direct estimate of the number of dots on that trial made by the participant. NaN is used for trials in which no estimate was requested}
+#'   \item{Est_RT}{Response time for the estimate}
+#' }
+#' @source <https://osf.io/95ruy/>
+#' @references
+#' \insertRef{spicer2022PerceptualCognitiveJudgments}{samplrData}
+#'
+"spicer2022e1"
+
+#' Data from Experiment 2 in \insertCite{spicer2022PerceptualCognitiveJudgments;textual}{samplrData}
+#'
+#' Cognitive judgments. Participants answered questions about commonly experienced values. judgments of numerosity against comparison values or absolute estimates. Comparison values (boundaries) were either similar or dissimilar to the true answer.
+#'
+#' This data are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), reproduced from materials in [OSF](https://osf.io/95ruy/).
+#' \describe{
+#'   \item{Timestamp}{Date and time of the experimental session}
+#'   \item{Pt}{Participant ID}
+#'   \item{Trial}{Trial ID based on order of presentation}
+#'   \item{QID}{ID for the target question of that trial}
+#'   \item{Question}{Question text}
+#'   \item{Region}{Expected region for that question, being either high or low}
+#'   \item{Answer}{Unbiased answer for that question from calibration data}
+#'   \item{Boundary}{Comparison value for that trial}
+#'   \item{Decision}{Decision made by the participant on whether answer to the question was higher or lower than the boundary}
+#'   \item{Dec_RT}{Response time for the decision}
+#'   \item{Accuracy}{Accuracy of the selected decision based on calibration data}
+#'   \item{Estimate}{Direct estimate of the answer to the question for that trial made by the participant}
+#'   \item{Est_RT}{Response time for the estimate}
+#' }
+#' @source <https://osf.io/95ruy/>
+#' @references
+#' \insertRef{spicer2022PerceptualCognitiveJudgments}{samplrData}
+#'
+"spicer2022e2"
+
+#' Data from Experiment 2a in \insertCite{spicer2022PerceptualCognitiveJudgments;textual}{samplrData}
+#'
+#' Cognitive judgments. Participants answered questions about commonly experienced values. Unlike in Experiment 2, participants viewed each question multiple times, comparing each against both a low (25.5) and high (75.5) comparison value to create 40 trial cases. As in Experiment 1, decisions were requested on all trials, but only 30% of trials were randomly selected to include a direct estimate.
+#'
+#' This experiment is described in the [supplementary materials](https://journals.sagepub.com/doi/suppl/10.1177/09567976221089599/suppl_file/sj-pdf-2-pss-10.1177_09567976221089599.pdf).
+#' This data are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), reproduced from materials in [OSF](https://osf.io/95ruy/).
+#' \describe{
+#'    \item{Timestamp}{Date and time of the experimental session}
+#'    \item{Pt}{Unique ID for that participant}
+#'    \item{Trial}{Trial ID based on order of presentation}
+#'    \item{QID}{ID for the target question of that trial. Note that these IDs match those of the calibration data.}
+#'    \item{Question}{Question text for that trial}
+#'    \item{Region}{Expected region for that question, being either high or low}
+#'    \item{Answer}{Unbiased answer for that question from calibration data}
+#'    \item{Boundary}{Comparison value for that trial}
+#'    \item{Decision}{Decision made by the participant on whether answer to the question was higher or lower than the boundary for that trial}
+#'    \item{Dec_RT}{Response time for the decision}
+#'    \item{Accuracy}{Accuracy of the selected decision based on calibration data}
+#'    \item{Estimate}{Direct estimate of the answer to the question for that trial made by the participant. NaN is used for trials in which no estimate was requested}
+#'    \item{Est_RT}{Response time for the estimate}
+#' }
+#' @source <https://osf.io/95ruy/>
+#' @references
+#' \insertRef{spicer2022PerceptualCognitiveJudgments}{samplrData}
+#'
+"spicer2022e2a"
