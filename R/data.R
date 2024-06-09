@@ -233,3 +233,72 @@
 #' \insertRef{zhu2022UnderstandingStructureCognitive}{samplrData}
 #'
 "zhu2022.structurenoise.time"
+
+
+#' Data from Experiment 1 in \insertCite{castillo2024ExplainingFlawsHuman;textual}{samplrData}
+#'
+#' Participants produced a random sequence of heights of either men or women in the United Kingdom. In one sequence, they sampled heights as distributed according to a uniform distribution (Uniform condition); in the other sequence, heights were distributed following their actual distribution (which is roughly Gaussian).
+#' This data are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), reproduced from materials in [OSF](https://osf.io/dw8ez/).
+#' \describe{
+#' \item{id}{participant id}
+#' \item{part_Gender}{participant's gender (self-reported)}
+#' \item{part_Height}{participant's own height (self-reported)}
+#' \item{part_Home}{participant's home country (self-reported)}
+#' \item{RQ_Rep}{percentage of correct responses in Randomness Questionnaire, for coin toss pairs where one sequence had too many repetitions}
+#' \item{RQ_Alt}{percentage of correct responses in Randomness Questionnaire, for coin toss pairs where one sequence had too many alternations}
+#' \item{RQ_GFM}{percentage of correct responses in Randomness Questionnaire, Gambling Fallacies Measure section}
+#' \item{minHeight}{height participant reports to be the shortest adult in the UK (from target gender)}
+#' \item{maxHeight}{height participant reports to be the tallest adult in the UK (from target gender)}
+#' \item{condition}{whether the participant did the uniform condition first (UN) or not (NU)}
+#' \item{target_gender}{gender they had to generate heights from, either male (M) or female (F)}
+#' \item{index}{position of the item in the sequence, 0 indexed}
+#' \item{block}{whether the item belongs to the first sequence the participant uttered (A) or the second (B)}
+#' \item{target_dist}{whether the instructions asked for heights as distributed in the population (N) or uniformly distributed (U)}
+#' \item{label}{what the participant uttered}
+#' \item{unit}{height unit, either centimetres (cm) or feet and inches (f_in).}
+#' \item{value}{value in cms of the height uttered.}
+#' \item{value_in_units}{value of the height uttered depending on the value of `unit` (either in inches or in centimetres). Used to calculate adjacencies, distances, etc.}
+#' \item{starts}{timestamp of when the utterance starts, in seconds.}
+#' \item{delays}{temporal difference with the start of the previous item (i.e. `starts[index] - starts[index - 1]`)}
+#' \item{R}{whether the item is a repetition of the last}
+#' \item{A}{whether the item is adjacent to the last (after removing repetitions)}
+#' \item{TP_full}{whether the item is a turning point, considering all items (after removing repetitions)}
+#' \item{D}{the Euclidean distance to the previous item (after removing repetitions)}
+#' \item{S}{a measure of how likely the item is in a uniform or gaussian distribution (see text)}
+#' \item{expected_*}{the expectation for measure `*` derived from reshuffling the participant's sequence 10000 times}
+#' }
+#' @source <https://osf.io/dw8ez/>
+#' @references
+#' \insertRef{castillo2024ExplainingFlawsHuman}{samplrData}
+#'
+"castillo2024.rgmomentum.e1"
+
+#' Data from Experiment 2 in \insertCite{castillo2024ExplainingFlawsHuman;textual}{samplrData}
+#'
+#' Participants first learned a set of syllables arranged in either a single row (one-dimensional condition) or a grid (two-dimensional condition), then produced two random sequences for the same display.
+#' This data are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), reproduced from materials in [OSF](https://osf.io/dw8ez/).
+#' \describe{
+#' \item{id}{participant id}
+#' \item{part_Gender}{participant's gender (self-reported)}
+#' \item{part_Age}{participant's age (self-reported)}
+#' \item{index}{position of the item in the sequence, 0 indexed}
+#' \item{id}{unique identifier for the participant}
+#' \item{block}{whether the item belongs to the first sequence the participant uttered (A) or the second (B)}
+#' \item{syll}{syllable uttered}
+#' \item{starts}{timestamp of when the utterance starts, in seconds.}
+#' \item{delays}{temporal difference with the start of the previous item (i.e. `starts[index] - starts[index - 1]`)}
+#' \item{dim}{whether the participant was allocated to the one-dimensional or two-dimensional condition}
+#' \item{seed}{Which of five possible configurations the participant learned}
+#' \item{position}{The position of the syllable in the array. For 1D arrays, position is left to right. For 2D arrays positions 1-2 correspond to the top 2 cells; 3-5 to the middle 3 cells; and 6-7 to the bottom three cells (always left to right)}
+#' \item{R}{whether the item is a repetition of the last}
+#' \item{A}{whether the item is adjacent to the last in the display (after removing repetitions)}
+#' \item{TP_full}{whether the item is a turning point, considering all items (after removing repetitions)}
+#' \item{D}{the Euclidean distance to the previous item (after removing repetitions)}
+#' \item{S}{a measure of how likely the item is in a uniform or gaussian distribution (see text)}
+#' \item{expected_*}{the expectation for measure `*` derived from reshuffling the participant's sequence 10000 times}
+#' }
+#' @source <https://osf.io/dw8ez/>
+#' @references
+#' \insertRef{castillo2024ExplainingFlawsHuman}{samplrData}
+#'
+"castillo2024.rgmomentum.e2"
