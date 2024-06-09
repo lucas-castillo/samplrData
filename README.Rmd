@@ -30,6 +30,7 @@ devtools::install_github("lucas-castillo/samplrData")
 ```
 ## Licenses
 Unless otherwise stated, data are distributed under a [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license. This means that attribution to the authors of the originating papers is needed. Dataset documentations include who to attribute under the "References" section. 
+
 ## Example
 Loading the package allows you to import the datasets:
 
