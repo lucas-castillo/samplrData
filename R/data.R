@@ -2,7 +2,7 @@
 #'
 #' Participants made probability judgments of the format: “What is the probability that the weather is \[X\] on a random day in England?". Various weather events were used, and the queries included both marginal events, conditional events, conjunctions, and disjunctions. The total set of 20 unique queries formed a block within which the presentation order was randomized for each participant. The experiment consisted of three blocks, so that all participants responded to each unique query three times.
 #'
-#' This data are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), reproduced from materials in [OSF](https://osf.io/mgcxj/).
+#' These data are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), reproduced from materials in [OSF](https://osf.io/mgcxj/).
 #' \describe{
 #'   \item{ID}{}
 #'   \item{block}{3 blocks in total}
@@ -22,7 +22,7 @@
 #'
 #' Participants made probability judgments of the format: “What is the probability that the weather is \[X\] on a random day in England?". Various weather events were used, and the queries included both marginal events, conditional events, conjunctions, and disjunctions. The total set of 20 unique queries formed a block within which the presentation order was randomized for each participant. The experiment consisted of three blocks, so that all participants responded to each unique query three times.
 #'
-#' This data are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), reproduced from materials in [OSF](https://osf.io/mgcxj/).
+#' These data are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), reproduced from materials in [OSF](https://osf.io/mgcxj/).
 #' \describe{
 #'   \item{ID}{}
 #'   \item{block}{3 blocks in total}
@@ -44,7 +44,7 @@
 #'
 #' Participants made probability judgments of the format: “What is the probability that the weather is \[X\] on a random day in England?". Various weather events were used, and the queries included both marginal events, conditional events, conjunctions, and disjunctions. The total set of 20 unique queries formed a block within which the presentation order was randomized for each participant. The experiment consisted of three blocks, so that all participants responded to each unique query three times.
 #'
-#' This data are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), reproduced from materials in [OSF](https://osf.io/9kea6/).
+#' These data are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), reproduced from materials in [OSF](https://osf.io/9kea6/).
 #' \describe{
 #'   \item{ID}{}
 #'   \item{block}{3 blocks in total}
@@ -65,7 +65,7 @@
 #'
 #' Participants made probability judgments about future hypothetical events, of the format: “What is the probability that there will be an early UK general election AND the UK economy will recover this year?". The experiment consisted of three blocks, so that all participants responded to each unique query three times.
 #'
-#' This data are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), reproduced from materials in [OSF](https://osf.io/9kea6/).
+#' These data are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), reproduced from materials in [OSF](https://osf.io/9kea6/).
 #' \describe{
 #'   \item{ID}{}
 #'   \item{block}{3 blocks in total}
@@ -84,7 +84,7 @@
 #'
 #' Participants (from Prolific) estimated the frequencies of different 3-card combinations in a 52 card deck and 3-ball combinations in a 52 ball urn (mathematically identical questions). They also answered surveys on poker playing habits and gamblers fallacy questionnaire.
 #'
-#' See exact questions in original paper's supplementary materials ([Appendix B](https://ars.els-cdn.com/content/image/1-s2.0-S0010027722000105-mmc1.docx)). This data are not licensed and so permission is required from authors before its use. Reproduced from materials in [OSF](https://osf.io/cdvkn/).
+#' See exact questions in original paper's supplementary materials ([Appendix B](https://ars.els-cdn.com/content/image/1-s2.0-S0010027722000105-mmc1.docx)). These data are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), reproduced from materials in [OSF](https://osf.io/cdvkn/).
 #' \describe{
 #'   \item{group}{Self-reported response on whether they have played poker before}
 #'   \item{q1-q9}{Answers to the poker questions}
@@ -104,7 +104,7 @@
 #'
 #' Participants (professional players recruited from twoplustwo.com) estimated the frequencies of different 3-card combinations in a 52 card deck and 3-ball combinations in a 52 ball urn (mathematically identical questions). They also answered surveys on poker playing habits and gamblers fallacy questionnaire.
 #'
-#' See exact questions in original paper's supplementary materials ([Appendix B](https://ars.els-cdn.com/content/image/1-s2.0-S0010027722000105-mmc1.docx)). This data are not licensed and so permission is required from authors before its use. Reproduced from materials in [OSF](https://osf.io/cdvkn/).
+#' See exact questions in original paper's supplementary materials ([Appendix B](https://ars.els-cdn.com/content/image/1-s2.0-S0010027722000105-mmc1.docx)). These data are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), reproduced from materials in [OSF](https://osf.io/cdvkn/).
 #' \describe{
 #'   \item{group}{value here is always professional (in contrast to Experiment 1)}
 #'   \item{q1-q9}{Answers to the poker questions}
@@ -124,7 +124,7 @@
 #'
 #' Perceptual judgments. Participants made judgments of numerosity against comparison values or absolute estimates. Comparison values (boundaries) were either similar or dissimilar to the true answer.
 #'
-#' This data are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), reproduced from materials in [OSF](https://osf.io/95ruy/).
+#' These data are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), reproduced from materials in [OSF](https://osf.io/95ruy/).
 #' \describe{
 #'   \item{Timestamp}{Date and time of the experimental session}
 #'   \item{Pt}{Participant ID}
@@ -148,7 +148,7 @@
 #'
 #' Cognitive judgments. Participants answered questions about commonly experienced values. judgments of numerosity against comparison values or absolute estimates. Comparison values (boundaries) were either similar or dissimilar to the true answer.
 #'
-#' This data are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), reproduced from materials in [OSF](https://osf.io/95ruy/).
+#' These data are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), reproduced from materials in [OSF](https://osf.io/95ruy/).
 #' \describe{
 #'   \item{Timestamp}{Date and time of the experimental session}
 #'   \item{Pt}{Participant ID}
@@ -175,7 +175,7 @@
 #' Cognitive judgments. Participants answered questions about commonly experienced values. Unlike in Experiment 2, participants viewed each question multiple times, comparing each against both a low (25.5) and high (75.5) comparison value to create 40 trial cases. As in Experiment 1, decisions were requested on all trials, but only 30% of trials were randomly selected to include a direct estimate.
 #'
 #' This experiment is described in the [supplementary materials](https://journals.sagepub.com/doi/suppl/10.1177/09567976221089599/suppl_file/sj-pdf-2-pss-10.1177_09567976221089599.pdf).
-#' This data are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), reproduced from materials in [OSF](https://osf.io/95ruy/).
+#' These data are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), reproduced from materials in [OSF](https://osf.io/95ruy/).
 #' \describe{
 #'    \item{Timestamp}{Date and time of the experimental session}
 #'    \item{Pt}{Unique ID for that participant}
@@ -201,7 +201,7 @@
 #'
 #' Participants were asked to type animal names as they came to mind and were explicitly instructed that they could resubmit previous animals, though not consecutively.
 #'
-#' This data are not licensed and so permission is required from authors before its use. Reproduced from materials in [OSF](https://osf.io/kcfgp/).
+#' These data are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), reproduced from materials in [OSF](https://osf.io/kcfgp/).
 #' \describe{
 #'   \item{ID}{Participant ID}
 #'   \item{Order}{Index of the response}
@@ -220,7 +220,7 @@
 #'
 #' Participants first listened to a sample of the target temporal interval for 60 seconds. Participants were instructed to reproduce the target by pressing the spacebar when they believed the target interval had elapsed (i.e. perfect performance in the task would mean `IRI == Target`).
 #'
-#' This data are not licensed and so permission is required from authors before its use. Reproduced from materials in [OSF](https://osf.io/kcfgp/).
+#' These data are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), reproduced from materials in [OSF](https://osf.io/kcfgp/).
 #' \describe{
 #'   \item{ID}{Participant ID}
 #'   \item{Order}{Index of the response}
@@ -238,7 +238,7 @@
 #' Data from Experiment 1 in \insertCite{castillo2024ExplainingFlawsHuman;textual}{samplrData}
 #'
 #' Participants produced a random sequence of heights of either men or women in the United Kingdom. In one sequence, they sampled heights as distributed according to a uniform distribution (Uniform condition); in the other sequence, heights were distributed following their actual distribution (which is roughly Gaussian).
-#' This data are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), reproduced from materials in [OSF](https://osf.io/dw8ez/).
+#' These data are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), reproduced from materials in [OSF](https://osf.io/dw8ez/).
 #' \describe{
 #' \item{id}{participant id}
 #' \item{part_Gender}{participant's gender (self-reported)}
@@ -276,7 +276,7 @@
 #' Data from Experiment 2 in \insertCite{castillo2024ExplainingFlawsHuman;textual}{samplrData}
 #'
 #' Participants first learned a set of syllables arranged in either a single row (one-dimensional condition) or a grid (two-dimensional condition), then produced two random sequences for the same display.
-#' This data are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), reproduced from materials in [OSF](https://osf.io/dw8ez/).
+#' These data are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), reproduced from materials in [OSF](https://osf.io/dw8ez/).
 #' \describe{
 #' \item{id}{participant id}
 #' \item{part_Gender}{participant's gender (self-reported)}
