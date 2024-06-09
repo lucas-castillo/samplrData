@@ -21,13 +21,18 @@ You can install the development version of samplrData from
 devtools::install_github("lucas-castillo/samplrData")
 ```
 
-## Example
+## Licenses
 
-Loading the package allows you to import the datasets:
+Unless otherwise stated, data are distributed under a [CC BY
+4.0](https://creativecommons.org/licenses/by/4.0/) license. This means
+that attribution to the authors of the originating papers is needed.
+Dataset documentations include who to attribute under the “References”
+section. \## Example Loading the package allows you to import the
+datasets:
 
 ``` r
 library(samplrData)
-knitr::kable(head(sundh2023e3))
+knitr::kable(head(sundh2023.meanvariance.e3))
 ```
 
 |  ID | block | trial | query                                                                                                                                 | querydetail              | querytype | estimate | starttime | endtime |        RT |
