@@ -5,7 +5,7 @@
 \alias{zhu2022e2}
 \title{Data from Experiment 2 in \insertCite{zhu2022ClarifyingRelationshipCoherence;textual}{samplrData}}
 \format{
-An object of class \code{spec_tbl_df} (inherits from \code{tbl_df}, \code{tbl}, \code{data.frame}) with 186 rows and 23 columns.
+An object of class \code{data.frame} with 186 rows and 23 columns.
 }
 \source{
 \url{https://osf.io/cdvkn/}
