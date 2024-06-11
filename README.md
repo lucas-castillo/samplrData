@@ -13,6 +13,12 @@ project](https://sampling.warwick.ac.uk/).
 
 ## Installation
 
+You can install `samplrData` from CRAN:
+
+``` r
+install.packages("samplrData")
+```
+
 You can install the development version of samplrData from
 [GitHub](https://github.com/) with:
 
