@@ -1,5 +1,5 @@
 Package: samplrData
-Title: Provides Data from SAMPLING Project
+Title: Datasets from SAMPLING Project
 Version: 0.0.0.9000
 Authors@R: c(
     person(given = "Lucas",
@@ -21,7 +21,7 @@ Authors@R: c(
            role = c("fnd"))
    )
 Maintainer: Lucas Castillo <lucas.castillo-marti@warwick.ac.uk>
-Description: This package provides datasets collected by the SAMPLING project (https://sampling.warwick.ac.uk).
+Description: This package contains datasets collected by the SAMPLING project (https://sampling.warwick.ac.uk).
 License: CC BY 4.0
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
