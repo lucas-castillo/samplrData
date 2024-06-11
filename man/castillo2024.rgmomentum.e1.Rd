@@ -15,7 +15,7 @@ castillo2024.rgmomentum.e1
 }
 \description{
 Participants produced a random sequence of heights of either men or women in the United Kingdom. In one sequence, they sampled heights as distributed according to a uniform distribution (Uniform condition); in the other sequence, heights were distributed following their actual distribution (which is roughly Gaussian).
-This data are licensed under \href{https://creativecommons.org/licenses/by/4.0/}{CC BY 4.0}, reproduced from materials in \href{https://osf.io/dw8ez/}{OSF}.
+These data are licensed under \href{https://creativecommons.org/licenses/by/4.0/}{CC BY 4.0}, reproduced from materials in \href{https://osf.io/dw8ez/}{OSF}.
 \describe{
 \item{id}{participant id}
 \item{part_Gender}{participant's gender (self-reported)}

@@ -17,7 +17,7 @@ sundh2023.meanvariance.e4
 Participants made probability judgments about future hypothetical events, of the format: “What is the probability that there will be an early UK general election AND the UK economy will recover this year?". The experiment consisted of three blocks, so that all participants responded to each unique query three times.
 }
 \details{
-This data are licensed under \href{https://creativecommons.org/licenses/by/4.0/}{CC BY 4.0}, reproduced from materials in \href{https://osf.io/9kea6/}{OSF}.
+These data are licensed under \href{https://creativecommons.org/licenses/by/4.0/}{CC BY 4.0}, reproduced from materials in \href{https://osf.io/9kea6/}{OSF}.
 \describe{
 \item{ID}{}
 \item{block}{3 blocks in total}

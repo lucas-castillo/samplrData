@@ -17,7 +17,7 @@ zhu2022.structurenoise.time
 Participants first listened to a sample of the target temporal interval for 60 seconds. Participants were instructed to reproduce the target by pressing the spacebar when they believed the target interval had elapsed (i.e. perfect performance in the task would mean \code{IRI == Target}).
 }
 \details{
-This data are not licensed and so permission is required from authors before its use. Reproduced from materials in \href{https://osf.io/kcfgp/}{OSF}.
+These data are licensed under \href{https://creativecommons.org/licenses/by/4.0/}{CC BY 4.0}, reproduced from materials in \href{https://osf.io/kcfgp/}{OSF}.
 \describe{
 \item{ID}{Participant ID}
 \item{Order}{Index of the response}

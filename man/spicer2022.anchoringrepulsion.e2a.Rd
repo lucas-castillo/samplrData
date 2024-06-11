@@ -18,7 +18,7 @@ Cognitive judgments. Participants answered questions about commonly experienced 
 }
 \details{
 This experiment is described in the \href{https://journals.sagepub.com/doi/suppl/10.1177/09567976221089599/suppl_file/sj-pdf-2-pss-10.1177_09567976221089599.pdf}{supplementary materials}.
-This data are licensed under \href{https://creativecommons.org/licenses/by/4.0/}{CC BY 4.0}, reproduced from materials in \href{https://osf.io/95ruy/}{OSF}.
+These data are licensed under \href{https://creativecommons.org/licenses/by/4.0/}{CC BY 4.0}, reproduced from materials in \href{https://osf.io/95ruy/}{OSF}.
 \describe{
 \item{Timestamp}{Date and time of the experimental session}
 \item{Pt}{Unique ID for that participant}

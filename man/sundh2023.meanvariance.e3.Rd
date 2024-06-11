@@ -17,7 +17,7 @@ sundh2023.meanvariance.e3
 Participants made probability judgments of the format: “What is the probability that the weather is [X] on a random day in England?". Various weather events were used, and the queries included both marginal events, conditional events, conjunctions, and disjunctions. The total set of 20 unique queries formed a block within which the presentation order was randomized for each participant. The experiment consisted of three blocks, so that all participants responded to each unique query three times.
 }
 \details{
-This data are licensed under \href{https://creativecommons.org/licenses/by/4.0/}{CC BY 4.0}, reproduced from materials in \href{https://osf.io/9kea6/}{OSF}.
+These data are licensed under \href{https://creativecommons.org/licenses/by/4.0/}{CC BY 4.0}, reproduced from materials in \href{https://osf.io/9kea6/}{OSF}.
 \describe{
 \item{ID}{}
 \item{block}{3 blocks in total}

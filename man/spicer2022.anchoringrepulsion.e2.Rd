@@ -17,7 +17,7 @@ spicer2022.anchoringrepulsion.e2
 Cognitive judgments. Participants answered questions about commonly experienced values. judgments of numerosity against comparison values or absolute estimates. Comparison values (boundaries) were either similar or dissimilar to the true answer.
 }
 \details{
-This data are licensed under \href{https://creativecommons.org/licenses/by/4.0/}{CC BY 4.0}, reproduced from materials in \href{https://osf.io/95ruy/}{OSF}.
+These data are licensed under \href{https://creativecommons.org/licenses/by/4.0/}{CC BY 4.0}, reproduced from materials in \href{https://osf.io/95ruy/}{OSF}.
 \describe{
 \item{Timestamp}{Date and time of the experimental session}
 \item{Pt}{Participant ID}

@@ -15,7 +15,7 @@ castillo2024.rgmomentum.e2
 }
 \description{
 Participants first learned a set of syllables arranged in either a single row (one-dimensional condition) or a grid (two-dimensional condition), then produced two random sequences for the same display.
-This data are licensed under \href{https://creativecommons.org/licenses/by/4.0/}{CC BY 4.0}, reproduced from materials in \href{https://osf.io/dw8ez/}{OSF}.
+These data are licensed under \href{https://creativecommons.org/licenses/by/4.0/}{CC BY 4.0}, reproduced from materials in \href{https://osf.io/dw8ez/}{OSF}.
 \describe{
 \item{id}{participant id}
 \item{part_Gender}{participant's gender (self-reported)}

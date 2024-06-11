@@ -17,7 +17,7 @@ zhu2022.structurenoise.animals
 Participants were asked to type animal names as they came to mind and were explicitly instructed that they could resubmit previous animals, though not consecutively.
 }
 \details{
-This data are not licensed and so permission is required from authors before its use. Reproduced from materials in \href{https://osf.io/kcfgp/}{OSF}.
+These data are licensed under \href{https://creativecommons.org/licenses/by/4.0/}{CC BY 4.0}, reproduced from materials in \href{https://osf.io/kcfgp/}{OSF}.
 \describe{
 \item{ID}{Participant ID}
 \item{Order}{Index of the response}

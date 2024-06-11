@@ -17,7 +17,7 @@ zhu2022.coherenceaccuracy.e2
 Participants (professional players recruited from twoplustwo.com) estimated the frequencies of different 3-card combinations in a 52 card deck and 3-ball combinations in a 52 ball urn (mathematically identical questions). They also answered surveys on poker playing habits and gamblers fallacy questionnaire.
 }
 \details{
-See exact questions in original paper's supplementary materials (\href{https://ars.els-cdn.com/content/image/1-s2.0-S0010027722000105-mmc1.docx}{Appendix B}). This data are not licensed and so permission is required from authors before its use. Reproduced from materials in \href{https://osf.io/cdvkn/}{OSF}.
+See exact questions in original paper's supplementary materials (\href{https://ars.els-cdn.com/content/image/1-s2.0-S0010027722000105-mmc1.docx}{Appendix B}). These data are licensed under \href{https://creativecommons.org/licenses/by/4.0/}{CC BY 4.0}, reproduced from materials in \href{https://osf.io/cdvkn/}{OSF}.
 \describe{
 \item{group}{value here is always professional (in contrast to Experiment 1)}
 \item{q1-q9}{Answers to the poker questions}
