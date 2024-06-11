@@ -17,7 +17,7 @@ spicer2022.anchoringrepulsion.e2a
 Cognitive judgments. Participants answered questions about commonly experienced values. Unlike in Experiment 2, participants viewed each question multiple times, comparing each against both a low (25.5) and high (75.5) comparison value to create 40 trial cases. As in Experiment 1, decisions were requested on all trials, but only 30\% of trials were randomly selected to include a direct estimate.
 }
 \details{
-This experiment is described in the \href{https://journals.sagepub.com/doi/suppl/10.1177/09567976221089599}{supplementary materials}.
+This experiment is described in the supplementary materials.
 These data are licensed under \href{https://creativecommons.org/licenses/by/4.0/}{CC BY 4.0}, reproduced from materials in \href{https://osf.io/95ruy/}{OSF}.
 \describe{
 \item{Timestamp}{Date and time of the experimental session}

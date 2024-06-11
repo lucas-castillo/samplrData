@@ -84,7 +84,7 @@
 #'
 #' Participants (from Prolific) estimated the frequencies of different 3-card combinations in a 52 card deck and 3-ball combinations in a 52 ball urn (mathematically identical questions). They also answered surveys on poker playing habits and gamblers fallacy questionnaire.
 #'
-#' See exact questions in original paper's supplementary materials ([Appendix B](https://ars.els-cdn.com/content/image/1-s2.0-S0010027722000105-mmc1.docx)). These data are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), reproduced from materials in [OSF](https://osf.io/cdvkn/).
+#' See exact questions in original paper's supplementary materials (Appendix B). These data are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), reproduced from materials in [OSF](https://osf.io/cdvkn/).
 #' \describe{
 #'   \item{group}{Self-reported response on whether they have played poker before}
 #'   \item{q1-q9}{Answers to the poker questions}
@@ -104,7 +104,7 @@
 #'
 #' Participants (professional players recruited from twoplustwo.com) estimated the frequencies of different 3-card combinations in a 52 card deck and 3-ball combinations in a 52 ball urn (mathematically identical questions). They also answered surveys on poker playing habits and gamblers fallacy questionnaire.
 #'
-#' See exact questions in original paper's supplementary materials ([Appendix B](https://ars.els-cdn.com/content/image/1-s2.0-S0010027722000105-mmc1.docx)). These data are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), reproduced from materials in [OSF](https://osf.io/cdvkn/).
+#' See exact questions in original paper's supplementary materials (Appendix B). These data are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), reproduced from materials in [OSF](https://osf.io/cdvkn/).
 #' \describe{
 #'   \item{group}{value here is always professional (in contrast to Experiment 1)}
 #'   \item{q1-q9}{Answers to the poker questions}
@@ -174,7 +174,7 @@
 #'
 #' Cognitive judgments. Participants answered questions about commonly experienced values. Unlike in Experiment 2, participants viewed each question multiple times, comparing each against both a low (25.5) and high (75.5) comparison value to create 40 trial cases. As in Experiment 1, decisions were requested on all trials, but only 30% of trials were randomly selected to include a direct estimate.
 #'
-#' This experiment is described in the [supplementary materials](https://journals.sagepub.com/doi/suppl/10.1177/09567976221089599).
+#' This experiment is described in the supplementary materials.
 #' These data are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), reproduced from materials in [OSF](https://osf.io/95ruy/).
 #' \describe{
 #'    \item{Timestamp}{Date and time of the experimental session}
