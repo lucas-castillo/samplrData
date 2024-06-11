@@ -174,7 +174,7 @@
 #'
 #' Cognitive judgments. Participants answered questions about commonly experienced values. Unlike in Experiment 2, participants viewed each question multiple times, comparing each against both a low (25.5) and high (75.5) comparison value to create 40 trial cases. As in Experiment 1, decisions were requested on all trials, but only 30% of trials were randomly selected to include a direct estimate.
 #'
-#' This experiment is described in the [supplementary materials](https://journals.sagepub.com/doi/suppl/10.1177/09567976221089599/suppl_file/sj-pdf-2-pss-10.1177_09567976221089599.pdf).
+#' This experiment is described in the [supplementary materials](https://journals.sagepub.com/doi/suppl/10.1177/09567976221089599).
 #' These data are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), reproduced from materials in [OSF](https://osf.io/95ruy/).
 #' \describe{
 #'    \item{Timestamp}{Date and time of the experimental session}
