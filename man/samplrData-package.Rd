@@ -4,9 +4,9 @@
 \name{samplrData-package}
 \alias{samplrData}
 \alias{samplrData-package}
-\title{samplrData: Datasets from SAMPLING Project}
+\title{samplrData: Datasets from the SAMPLING Project}
 \description{
-Contains datasets collected by the SAMPLING project (\url{https://sampling.warwick.ac.uk}).
+Contains human behaviour datasets collected by the SAMPLING project (\url{https://sampling.warwick.ac.uk}).
 }
 \seealso{
 Useful links:
